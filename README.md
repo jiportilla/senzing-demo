@@ -4,8 +4,8 @@
 
 If you have not done so already, you must do these steps before proceeding with the Senzing demo:
 
-1. Download and install the Senzing app.
-2. 1. Clone this git repository:
+1. Download and install the free Senzing App [here](http://www.senzing.com/). (No private data flows to Senzing)
+2. Clone this git repository:
 
 ```bash
 cd ~   # or wherever you want
@@ -14,7 +14,7 @@ cd ~/senzing-demo/
 ```
 ## <a id=preconditions></a> 2. Loading and Exploring Las Vegas PPP Data
 
-1. Download and install the free Senzing App [here](http://www.senzing.com/). (No private data flows to Senzing)
+1. Verify you have installed the **free** Senzing app
 
 2. Launch the Senzing App.
 
